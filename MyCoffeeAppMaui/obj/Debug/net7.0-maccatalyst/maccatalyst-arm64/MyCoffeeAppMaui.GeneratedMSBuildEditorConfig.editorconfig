@@ -1,0 +1,125 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net7.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MyCoffeeAppMaui
+build_property.ProjectDir = /Users/nehakumari/Projects/MyCoffeeApp-master/MyCoffeeAppMaui/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[/Users/nehakumari/Projects/MyCoffeeApp-master/MyCoffeeAppMaui/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyCoffeeAppMaui.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/Users/nehakumari/Projects/MyCoffeeApp-master/MyCoffeeAppMaui/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyCoffeeAppMaui.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[/Users/nehakumari/Projects/MyCoffeeApp-master/MyCoffeeAppMaui/Cells/CoffeeCard.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyCoffeeAppMaui.Cells.CoffeeCard.xaml
+build_metadata.AdditionalFiles.TargetPath = Cells/CoffeeCard.xaml
+build_metadata.AdditionalFiles.RelativePath = Cells/CoffeeCard.xaml
+
+[/Users/nehakumari/Projects/MyCoffeeApp-master/MyCoffeeAppMaui/Cells/SpecialCell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyCoffeeAppMaui.Cells.SpecialCell.xaml
+build_metadata.AdditionalFiles.TargetPath = Cells/SpecialCell.xaml
+build_metadata.AdditionalFiles.RelativePath = Cells/SpecialCell.xaml
+
+[/Users/nehakumari/Projects/MyCoffeeApp-master/MyCoffeeAppMaui/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyCoffeeAppMaui.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[/Users/nehakumari/Projects/MyCoffeeApp-master/MyCoffeeAppMaui/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyCoffeeAppMaui.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+
+[/Users/nehakumari/Projects/MyCoffeeApp-master/MyCoffeeAppMaui/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyCoffeeAppMaui.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
+
+[/Users/nehakumari/Projects/MyCoffeeApp-master/MyCoffeeAppMaui/Views/AnimationPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyCoffeeAppMaui.Views.AnimationPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/AnimationPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/AnimationPage.xaml
+
+[/Users/nehakumari/Projects/MyCoffeeApp-master/MyCoffeeAppMaui/Views/CoffeeEquipmentCVPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyCoffeeAppMaui.Views.CoffeeEquipmentCVPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/CoffeeEquipmentCVPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/CoffeeEquipmentCVPage.xaml
+
+[/Users/nehakumari/Projects/MyCoffeeApp-master/MyCoffeeAppMaui/Views/CoffeeEquipmentPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyCoffeeAppMaui.Views.CoffeeEquipmentPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/CoffeeEquipmentPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/CoffeeEquipmentPage.xaml
+
+[/Users/nehakumari/Projects/MyCoffeeApp-master/MyCoffeeAppMaui/Views/ImageCachePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyCoffeeAppMaui.Views.ImageCachePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/ImageCachePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/ImageCachePage.xaml
+
+[/Users/nehakumari/Projects/MyCoffeeApp-master/MyCoffeeAppMaui/Views/InternetCoffee/InternetCoffeePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyCoffeeAppMaui.Views.InternetCoffee.InternetCoffeePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/InternetCoffee/InternetCoffeePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/InternetCoffee/InternetCoffeePage.xaml
+
+[/Users/nehakumari/Projects/MyCoffeeApp-master/MyCoffeeAppMaui/Views/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyCoffeeAppMaui.Views.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/LoginPage.xaml
+
+[/Users/nehakumari/Projects/MyCoffeeApp-master/MyCoffeeAppMaui/Views/MyCoffee/AddMyCoffeePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyCoffeeAppMaui.Views.MyCoffee.AddMyCoffeePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/MyCoffee/AddMyCoffeePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/MyCoffee/AddMyCoffeePage.xaml
+
+[/Users/nehakumari/Projects/MyCoffeeApp-master/MyCoffeeAppMaui/Views/MyCoffee/MyCoffeeDetailsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyCoffeeAppMaui.Views.MyCoffee.MyCoffeeDetailsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/MyCoffee/MyCoffeeDetailsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/MyCoffee/MyCoffeeDetailsPage.xaml
+
+[/Users/nehakumari/Projects/MyCoffeeApp-master/MyCoffeeAppMaui/Views/MyCoffee/MyStoredCoffeePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyCoffeeAppMaui.Views.MyCoffee.MyStoredCoffeePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/MyCoffee/MyStoredCoffeePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/MyCoffee/MyStoredCoffeePage.xaml
+
+[/Users/nehakumari/Projects/MyCoffeeApp-master/MyCoffeeAppMaui/Views/RegistrationPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyCoffeeAppMaui.Views.RegistrationPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/RegistrationPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/RegistrationPage.xaml
+
+[/Users/nehakumari/Projects/MyCoffeeApp-master/MyCoffeeAppMaui/Views/SettingsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyCoffeeAppMaui.Views.SettingsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/SettingsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/SettingsPage.xaml

@@ -1,0 +1,10 @@
+/Users/nehakumari/Projects/MyCoffeeApp-master/MyCoffeeApp.Shared/bin/Release/netstandard2.0/MyCoffeeApp.Shared.deps.json
+/Users/nehakumari/Projects/MyCoffeeApp-master/MyCoffeeApp.Shared/bin/Release/netstandard2.0/MyCoffeeApp.Shared.dll
+/Users/nehakumari/Projects/MyCoffeeApp-master/MyCoffeeApp.Shared/bin/Release/netstandard2.0/MyCoffeeApp.Shared.pdb
+/Users/nehakumari/Projects/MyCoffeeApp-master/MyCoffeeApp.Shared/obj/Release/netstandard2.0/MyCoffeeApp.Shared.csproj.AssemblyReference.cache
+/Users/nehakumari/Projects/MyCoffeeApp-master/MyCoffeeApp.Shared/obj/Release/netstandard2.0/MyCoffeeApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nehakumari/Projects/MyCoffeeApp-master/MyCoffeeApp.Shared/obj/Release/netstandard2.0/MyCoffeeApp.Shared.AssemblyInfoInputs.cache
+/Users/nehakumari/Projects/MyCoffeeApp-master/MyCoffeeApp.Shared/obj/Release/netstandard2.0/MyCoffeeApp.Shared.AssemblyInfo.cs
+/Users/nehakumari/Projects/MyCoffeeApp-master/MyCoffeeApp.Shared/obj/Release/netstandard2.0/MyCoffeeApp.Shared.csproj.CoreCompileInputs.cache
+/Users/nehakumari/Projects/MyCoffeeApp-master/MyCoffeeApp.Shared/obj/Release/netstandard2.0/MyCoffeeApp.Shared.dll
+/Users/nehakumari/Projects/MyCoffeeApp-master/MyCoffeeApp.Shared/obj/Release/netstandard2.0/MyCoffeeApp.Shared.pdb
