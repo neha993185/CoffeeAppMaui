@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="MyCoffeeApp.iOS.app/MyCoffeeApp.iOS">
+      <BCSymbolMapName>MyCoffeeApp.iOS.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>MyCoffeeApp.iOS.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/nehakumari/Projects/CoffeeAppMaui/XamarinForm/MyCoffeeApp.iOS/obj/iPhoneSimulator/Debug/mtouch-symbols.list</SymbolFile>
+      <DSymName>MyCoffeeApp.iOS.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/nehakumari/Projects/CoffeeAppMaui/XamarinForm/MyCoffeeApp.iOS</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

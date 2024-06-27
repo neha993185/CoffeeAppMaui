@@ -1,0 +1,6 @@
+/Users/nehakumari/Projects/CoffeeAppMaui/XamarinForm/MyCoffeeAppCore/obj/Debug/net7.0/MyCoffeeAppCore.csproj.AssemblyReference.cache
+/Users/nehakumari/Projects/CoffeeAppMaui/XamarinForm/MyCoffeeAppCore/obj/Debug/net7.0/MyCoffeeAppCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nehakumari/Projects/CoffeeAppMaui/XamarinForm/MyCoffeeAppCore/obj/Debug/net7.0/MyCoffeeAppCore.AssemblyInfoInputs.cache
+/Users/nehakumari/Projects/CoffeeAppMaui/XamarinForm/MyCoffeeAppCore/obj/Debug/net7.0/MyCoffeeAppCore.AssemblyInfo.cs
+/Users/nehakumari/Projects/CoffeeAppMaui/XamarinForm/MyCoffeeAppCore/obj/Debug/net7.0/MyCoffeeAppCore.csproj.CoreCompileInputs.cache
+/Users/nehakumari/Projects/CoffeeAppMaui/XamarinForm/MyCoffeeAppCore/obj/Debug/net7.0/MyCoffeeAppCore.sourcelink.json

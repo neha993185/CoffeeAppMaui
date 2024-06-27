@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Sl6z128LzoFr1+5edVKo68VVpwq4+JH513J3OhM3rNE=",
+  "Source": "MyCoffeeApp.WebAPI",
+  "BasePath": "_content/MyCoffeeApp.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

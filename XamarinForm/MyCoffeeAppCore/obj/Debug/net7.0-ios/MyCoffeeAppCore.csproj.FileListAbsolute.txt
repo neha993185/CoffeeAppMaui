@@ -1,0 +1,14 @@
+/Users/nehakumari/Projects/CoffeeAppMaui/XamarinForm/MyCoffeeAppCore/obj/Debug/net7.0-ios/actool/_PartialAppManifest.items
+/Users/nehakumari/Projects/CoffeeAppMaui/XamarinForm/MyCoffeeAppCore/obj/Debug/net7.0-ios/actool/_BundleResourceWithLogicalName.items
+/Users/nehakumari/Projects/CoffeeAppMaui/XamarinForm/MyCoffeeAppCore/obj/Debug/net7.0-ios/actool/_ProcessedImageAssetsPath.items
+/Users/nehakumari/Projects/CoffeeAppMaui/XamarinForm/MyCoffeeAppCore/obj/Debug/net7.0-ios/coremlc/_PartialAppManifest.items
+/Users/nehakumari/Projects/CoffeeAppMaui/XamarinForm/MyCoffeeAppCore/obj/Debug/net7.0-ios/coremlc/_BundleResourceWithLogicalName.items
+/Users/nehakumari/Projects/CoffeeAppMaui/XamarinForm/MyCoffeeAppCore/obj/Debug/net7.0-ios/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/nehakumari/Projects/CoffeeAppMaui/XamarinForm/MyCoffeeAppCore/obj/Debug/net7.0-ios/_ProcessedBundleResourcesPath.items
+/Users/nehakumari/Projects/CoffeeAppMaui/XamarinForm/MyCoffeeAppCore/obj/Debug/net7.0-ios/_ProcessedContentPath.items
+/Users/nehakumari/Projects/CoffeeAppMaui/XamarinForm/MyCoffeeAppCore/obj/Debug/net7.0-ios/MyCoffeeAppCore.csproj.AssemblyReference.cache
+/Users/nehakumari/Projects/CoffeeAppMaui/XamarinForm/MyCoffeeAppCore/obj/Debug/net7.0-ios/MyCoffeeAppCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nehakumari/Projects/CoffeeAppMaui/XamarinForm/MyCoffeeAppCore/obj/Debug/net7.0-ios/MyCoffeeAppCore.AssemblyInfoInputs.cache
+/Users/nehakumari/Projects/CoffeeAppMaui/XamarinForm/MyCoffeeAppCore/obj/Debug/net7.0-ios/MyCoffeeAppCore.AssemblyInfo.cs
+/Users/nehakumari/Projects/CoffeeAppMaui/XamarinForm/MyCoffeeAppCore/obj/Debug/net7.0-ios/MyCoffeeAppCore.csproj.CoreCompileInputs.cache
+/Users/nehakumari/Projects/CoffeeAppMaui/XamarinForm/MyCoffeeAppCore/obj/Debug/net7.0-ios/MyCoffeeAppCore.sourcelink.json
